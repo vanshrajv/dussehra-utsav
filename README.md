@@ -9,7 +9,6 @@ A responsive Dussehra/Vijayadashami festival landing page built with React, Boot
 - Sample event schedule
 - Gallery category filters using React state
 - jQuery smooth-scroll and reveal effects
-- Contact form demo (no backend; does not send or save messages)
 - Responsive Bootstrap grid + Tailwind utility classes + custom CSS
 
 ## Run in VS Code / Windows
